@@ -15,22 +15,19 @@ I tried to make Lumen-A with components that I already had on hand. The followin
 <br>
 
 ### Components
-
--Arduino Uno
--Breadboard
--Towerpro Servo motor (9gm Torque)
--Red and Yellow LEDs
--220 Ohm resistor (for LED protection)
--Assorted wires with the required connector types
+- Arduino Uno
+- Breadboard
+- Towerpro Servo motor (9gm Torque)
+- Red and Yellow LEDs
+- 220 Ohm resistor (for LED protection)
+- Assorted wires with the required connector types
 
 ### Software
-
--Arduino IDE
--IDLE (for python)
--IP Webcam (Installed on phone)
+- Arduino IDE
+- IDLE (for python)
+- IP Webcam (Installed on phone)
 
 ### Miscellaneous
-
--Cardboard
--Styrofoam
--Paper sheets
+- Cardboard
+- Styrofoam
+- Paper sheets
