@@ -92,7 +92,7 @@ Ensure that the Arduino serial COM port isn't being used by any other program. J
 <br>
 Here's a video showcasing how the device works :
 <br>
-[!<img src="https://github.com/Tejal-V-Shetty/Lumen-Alert/blob/main/Files/Lumen_Alert.png"][src="https://youtu.be/Rr54FswWZfw"]
+[!("https://github.com/Tejal-V-Shetty/Lumen-Alert/blob/main/Files/Lumen_Alert.png")]("https://youtu.be/Rr54FswWZfw")
 
 The wakelight lights up the area where my head is supposed to be:
 <br>
