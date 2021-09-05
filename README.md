@@ -4,7 +4,7 @@ A repository documenting the details, code, setup and associated story for my li
 ## The story
 I've always had trouble keeping to a schedule, and I feel that traditional sound based alarms tend to be extremely annoying and stress inducing, so I thought of another sense to annoy to get me on track - The sense of sight !
 <br>
-![Lumen Alert](https://github.com/Tejal-V-Shetty/Lumen-Alert/blob/main/Files/Full_view.jpg)
+<img src="https://github.com/Tejal-V-Shetty/Lumen-Alert/blob/main/Files/Full_view.jpg" alt="Lumen Alert" width=250>
 
 Over the past few weeks I worked on making a portable, brick-sized(but not as heavy) device with the capability to track me down and relentlessly bombard me with a beam of light till I get up and go do my work. Equipped with a servo motor for precise angular control, the device (henceforth referred to as Lumen-A ) gets my position from the live feed of my phone that was processed with a Python script (currently) being run on my laptop. Lumen-A isn't satisfied till I leave its field of view, and even when I do, it's ready to hunt me down if I return when I'm not supposed to.
 <br>
