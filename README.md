@@ -90,6 +90,9 @@ Connect the laptop/computer to the hotspot and enter the IP address in the Pytho
 ## Runtime !
 Ensure that the Arduino serial COM port isn't being used by any other program. Just run the Python code and it'll keep checking for the presence of a person when the time for the alarm has arrived, and light the LED correspondingly.
 <br>
+Here's a video showcasing how the device works :
+<br>
+[!<img src="https://github.com/Tejal-V-Shetty/Lumen-Alert/blob/main/Files/Lumen_Alert.png"][src="https://youtu.be/Rr54FswWZfw"]
 
 The wakelight lights up the area where my head is supposed to be:
 <br>
