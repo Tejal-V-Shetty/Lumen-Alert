@@ -29,7 +29,7 @@ I tried to make Lumen-A with components that I already had on hand. The followin
 
 ### Miscellaneous
 - Cardboard
-- Styrofoam
+- Thermocol
 - Paper sheets
 - Lens(To focus the LED's illumination to a spot)
 - Plastic cone with reflective backing
@@ -44,7 +44,7 @@ Assemble the circuit on the breadboard as shown in the images below.
 The housing case has a footprint of 20cm X 11cm and is made with cardboard, styrofoam, and paper. 
 <br>
 
-The base of styrofoam has cutouts for the breadboard, along with holders for the phone and servo. The underside is stuck to a piece of cardboard to provide more structural stability.
+The base of thermocol has cutouts for the breadboard, along with holders for the phone and servo. The underside is stuck to a piece of cardboard to provide more structural stability.
 <br>
 
 The top cover is made of thick chart paper and has cut-outs for the phone and servo to pop out.
