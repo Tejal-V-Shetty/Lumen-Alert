@@ -49,6 +49,7 @@ Assemble the circuit on the breadboard as shown :
 ### Case
 The housing case has a footprint of 20cm X 11cm and is made with cardboard, styrofoam, and paper. 
 <br>
+<img src="https://github.com/Tejal-V-Shetty/Lumen-Alert/blob/main/Files/Top_view.jpg" width=540>
 
 The base of thermocol has cutouts for the breadboard, along with holders for the phone and servo. The underside is stuck to a piece of cardboard to provide more structural stability.
 <br>
@@ -95,6 +96,9 @@ The wakelight lights up the area where my head is supposed to be:
 <img src="https://github.com/Tejal-V-Shetty/Lumen-Alert/blob/main/Files/Wakelight_working.jpg" width=270>
 
 ## Final notes
+<img src="https://github.com/Tejal-V-Shetty/Lumen-Alert/blob/main/Files/Front_diagonal_view.jpg" width=540>
+<br>
+
 This project was really fun and I was happy to be able to make a functional device from an Arduino that had been laying about for 2 years. If possible, I hope to make improvements in the future, mainly making it completely autonomous by using a Power bank for a portable power source, and a Raspberry Pi for image processing. Stronger lights and improved image processing would also improve the effectiveness of Lumen-A. 
 <br>
 
