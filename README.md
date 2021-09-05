@@ -65,15 +65,13 @@ The peripheral assembly includes mounting the red LED on the servo motor, and mo
 I made a hole in the plastic cone and pushed the LED through, then used a hot-melt glue gun to attach the lens to the plastic cone.
 This was attached to the servo using the glue gun and secured with a rubber band.
 
-<p float="left">
-<img src="https://github.com/Tejal-V-Shetty/Lumen-Alert/blob/main/Files/Red_1.jpg" width=540>
-<img src="https://github.com/Tejal-V-Shetty/Lumen-Alert/blob/main/Files/Red_2.jpg" width=540>
-</p>
+<img src="https://github.com/Tejal-V-Shetty/Lumen-Alert/blob/main/Files/Red_1.jpg" width=270>
+<img src="https://github.com/Tejal-V-Shetty/Lumen-Alert/blob/main/Files/Red_2.jpg" width=270>
 <br>
 
 The yellow LED was mounted using a rubber band.
 <br>
-<img src="https://github.com/Tejal-V-Shetty/Lumen-Alert/blob/main/Files/Wakelight_display.jpg" width=540>
+<img src="https://github.com/Tejal-V-Shetty/Lumen-Alert/blob/main/Files/Wakelight_display.jpg" width=270>
 <br>
 
 I used rubber bands as they are really cheap and allow for easy dismounting whenever necessary.
@@ -90,8 +88,11 @@ Connect the laptop/computer to the hotspot and enter the IP address in the Pytho
 
 ## Runtime !
 Ensure that the Arduino serial COM port isn't being used by any other program. Just run the Python code and it'll keep checking for the presence of a person when the time for the alarm has arrived, and light the LED correspondingly.
+<br>
 
-<img src="https://github.com/Tejal-V-Shetty/Lumen-Alert/blob/main/Files/Wakelight_working.jpg" width=540>
+The wakelight lights up the area where my head is supposed to be:
+<br>
+<img src="https://github.com/Tejal-V-Shetty/Lumen-Alert/blob/main/Files/Wakelight_working.jpg" width=270>
 
 ## Final notes
 This project was really fun and I was happy to be able to make a functional device from an Arduino that had been laying about for 2 years. If possible, I hope to make improvements in the future, mainly making it completely autonomous by using a Power bank for a portable power source, and a Raspberry Pi for image processing. Stronger lights and improved image processing would also improve the effectiveness of Lumen-A. 
