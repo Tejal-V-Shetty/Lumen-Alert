@@ -40,8 +40,10 @@ I tried to make Lumen-A with components that I already had on hand. The followin
 ## Assembly
 ### Circuit
 The final assembly looks like this :
+<br>
 <img src="https://github.com/Tejal-V-Shetty/Lumen-Alert/blob/main/Files/Assembly_wo_cover.jpg" width=540>
 <br>
+
 Assemble the circuit on the breadboard as shown :
 
 ### Case
@@ -51,21 +53,29 @@ The housing case has a footprint of 20cm X 11cm and is made with cardboard, styr
 The base of thermocol has cutouts for the breadboard, along with holders for the phone and servo. The underside is stuck to a piece of cardboard to provide more structural stability.
 <br>
 <img src="https://github.com/Tejal-V-Shetty/Lumen-Alert/blob/main/Files/Base.jpg" width=540>
+<br>
+
 The top cover is made of thick chart paper and has cut-outs for the phone and servo to pop out.
 <img src="https://github.com/Tejal-V-Shetty/Lumen-Alert/blob/main/Files/Only_cover.jpg" width=540>
+
 ### Peripherals
 The peripheral assembly includes mounting the red LED on the servo motor, and mounting the yellow LED on a metal mount directed towards the head of the bed.
 <br>
 
 I made a hole in the plastic cone and pushed the LED through, then used a hot-melt glue gun to attach the lens to the plastic cone.
 This was attached to the servo using the glue gun and secured with a rubber band.
+
+<p float="left">
 <img src="https://github.com/Tejal-V-Shetty/Lumen-Alert/blob/main/Files/Red_1.jpg" width=540>
 <img src="https://github.com/Tejal-V-Shetty/Lumen-Alert/blob/main/Files/Red_2.jpg" width=540>
+</p>
 <br>
 
 The yellow LED was mounted using a rubber band.
+<br>
 <img src="https://github.com/Tejal-V-Shetty/Lumen-Alert/blob/main/Files/Wakelight_display.jpg" width=540>
 <br>
+
 I used rubber bands as they are really cheap and allow for easy dismounting whenever necessary.
 
 ## Setup
@@ -82,6 +92,7 @@ Connect the laptop/computer to the hotspot and enter the IP address in the Pytho
 Ensure that the Arduino serial COM port isn't being used by any other program. Just run the Python code and it'll keep checking for the presence of a person when the time for the alarm has arrived, and light the LED correspondingly.
 
 <img src="https://github.com/Tejal-V-Shetty/Lumen-Alert/blob/main/Files/Wakelight_working.jpg" width=540>
+
 ## Final notes
 This project was really fun and I was happy to be able to make a functional device from an Arduino that had been laying about for 2 years. If possible, I hope to make improvements in the future, mainly making it completely autonomous by using a Power bank for a portable power source, and a Raspberry Pi for image processing. Stronger lights and improved image processing would also improve the effectiveness of Lumen-A. 
 <br>
