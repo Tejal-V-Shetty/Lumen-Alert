@@ -1,5 +1,5 @@
 # Lumen-Alert
-A repository documenting the details, code, setup and associated story for my light based alarm system, Lumen Alert !
+A repository documenting the details, code, setup and associated story for my light based alarm system, Lumen Alert!
 
 ## The story
 I've always had trouble keeping to a schedule, and I feel that traditional sound based alarms tend to be extremely annoying and stress inducing, so I thought of another sense to annoy to get me on track - The sense of sight !
